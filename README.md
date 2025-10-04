@@ -1,7 +1,7 @@
 # Hi 👋, I'm Jose Brian Dela Peña
+- Currently a 3rd-year Computer Science student specializing in Data Science
 - Currently working on personal coding projects
-- Currently learning Java, Python, and cloud technologies
-- Ask me about UX/UI design, coding, and algorithms
+- Ask me about UX/UI design and coding.
 - Reach me at: delapenajosebrian09@gmail.com
 
 Connect with me:
