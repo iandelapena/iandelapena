@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm Jose Brian Dela Peña
+- Currently working on personal coding projects
+- Currently learning Java, Python, and cloud technologies
+- Ask me about UX/UI design, coding, and algorithms
+- Reach me at: delapenajosebrian09@gmail.com
 
-<!--
-**iandelapena/iandelapena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Connect with me:
+- LinkedIn: [LinkedIn-JoseBrian](https://www.linkedin.com/in/jose-brian-dela-pe%C3%B1a/)
+- GitHub: [Github-JoseBrian](https://github.com/iandelapena)
 
-Here are some ideas to get you started:
+Languages and Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+Top Languages:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iandelapena&theme=tokyonight&layout=compact)
