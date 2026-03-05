@@ -6,7 +6,6 @@
 
 Connect with me:
 - LinkedIn: [LinkedIn-JoseBrian](https://www.linkedin.com/in/jose-brian-dela-pe%C3%B1a/)
-- GitHub: [Github-JoseBrian](https://github.com/iandelapena)
 
 Languages and Tools:
 
@@ -20,4 +19,4 @@ Languages and Tools:
 
 Top Languages:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iandelapena&theme=tokyonight&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iandelapena&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
