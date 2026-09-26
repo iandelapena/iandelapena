@@ -1,5 +1,5 @@
-# Hi 👋, I'm Jose Brian Dela Peña
-- Currently a 3rd-year Computer Science student specializing in Data Science
+# Hi , I'm Jose Brian Dela Peña
+- Currently a 4th-year Computer Science student specializing in Data Science
 - Currently working on personal coding projects
 - Ask me about UX/UI design and coding.
 - Reach me at: delapenajosebrian09@gmail.com
